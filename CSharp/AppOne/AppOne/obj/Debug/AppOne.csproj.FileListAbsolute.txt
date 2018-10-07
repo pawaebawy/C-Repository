@@ -1,0 +1,7 @@
+F:\GitHub\CRep\C-Repository\CSharp\AppOne\AppOne\bin\Debug\AppOne.exe.config
+F:\GitHub\CRep\C-Repository\CSharp\AppOne\AppOne\bin\Debug\AppOne.exe
+F:\GitHub\CRep\C-Repository\CSharp\AppOne\AppOne\bin\Debug\AppOne.pdb
+F:\GitHub\CRep\C-Repository\CSharp\AppOne\AppOne\obj\Debug\AppOne.csprojAssemblyReference.cache
+F:\GitHub\CRep\C-Repository\CSharp\AppOne\AppOne\obj\Debug\AppOne.csproj.CoreCompileInputs.cache
+F:\GitHub\CRep\C-Repository\CSharp\AppOne\AppOne\obj\Debug\AppOne.exe
+F:\GitHub\CRep\C-Repository\CSharp\AppOne\AppOne\obj\Debug\AppOne.pdb
